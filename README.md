@@ -22,6 +22,6 @@ An interactive Power BI dashboard presenting state-wise constituency seat distri
 - **State Wise Consituency Dataset** – cleaned and modeled for insights
 
 ##  Repository Structure
-- `HR Analytical Dashboard.pbix` → Power BI dashboard file  
-- `HR_Analytics.csv` → Dataset used for this project  
+- `State Wis Constituency.pbix` → Power BI dashboard file  
+- `Statewise Constituency seats.xlsx` → Dataset used for this project  
 - `README.md` → Documentation  
