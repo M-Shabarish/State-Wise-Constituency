@@ -4,25 +4,25 @@ An interactive Power BI dashboard presenting state-wise constituency seat distri
 ---
 
 ## Dashboard Highlights
--**BJP**: 1,485 seats → Largest party.
+- **BJP**: 1,485 seats → Largest party.
 
--**INC**: 650 seats → Main opposition.
+- **INC**: 650 seats → Main opposition.
 
--**Alliances**: NDA (1,895) > INDIA (1,266).
+- **Alliances**: NDA (1,895) > INDIA (1,266).
 
--**Top BJP states**: UP (252), MP (163), Gujarat (156), Rajasthan (115), Maharashtra (103).  
+- **Top BJP states**: UP (252), MP (163), Gujarat (156), Rajasthan (115), Maharashtra (103).  
 
 ## Key Findings
 
--**BJP** is the single-largest party, with more than double the constituencies of INC.
+- **BJP** is the single-largest party, with more than double the constituencies of INC.
 
--NDA alliance holds a **clear majority, significantly** ahead of INDIA bloc.
+- NDA alliance holds a **clear majority, significantly** ahead of INDIA bloc.
 
--**Regional parties (DMK, YSRCP, TMC, etc.)** play a decisive role in their respective states.
+- **Regional parties (DMK, YSRCP, TMC, etc.)** play a decisive role in their respective states.
 
--Uttar Pradesh is the most influential state, contributing the **highest number of constituencies (252) to BJP’s tally**.
+- Uttar Pradesh is the most influential state, contributing the **highest number of constituencies (252) to BJP’s tally**.
 
--Despite NDA’s dominance, strong opposition pockets exist in southern and eastern states **(DMK in Tamil Nadu, TMC in West Bengal, YSRCP in Andhra Pradesh)**-  
+- Despite NDA’s dominance, strong opposition pockets exist in southern and eastern states **(DMK in Tamil Nadu, TMC in West Bengal, YSRCP in Andhra Pradesh)**-  
 
 
 ## 🛠️ Tools Used
