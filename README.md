@@ -12,7 +12,7 @@ An interactive Power BI dashboard presenting state-wise constituency seat distri
 
 -**Top BJP states**: UP (252), MP (163), Gujarat (156), Rajasthan (115), Maharashtra (103).  
 
-**Key Findings**
+## Key Findings
 
 -**BJP** is the single-largest party, with more than double the constituencies of INC.
 
