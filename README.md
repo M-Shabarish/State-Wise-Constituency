@@ -5,8 +5,11 @@ An interactive Power BI dashboard presenting state-wise constituency seat distri
 
 ## Dashboard Highlights
 -**BJP**: 1,485 seats → Largest party.
+
 -**INC**: 650 seats → Main opposition.
+
 -**Alliances**: NDA (1,895) > INDIA (1,266).
+
 -**Top BJP states**: UP (252), MP (163), Gujarat (156), Rajasthan (115), Maharashtra (103).  
 
 **Key Findings**
