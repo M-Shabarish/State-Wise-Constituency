@@ -1,4 +1,4 @@
-# State-Wise-Constituency
+## State-Wise-Constituency
 An interactive Power BI dashboard presenting state-wise constituency seat distribution with visual maps, party-wise seat counts, and historical comparisons, enabling clear insights into political representation and electoral trends.
 
 ---
